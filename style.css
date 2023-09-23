@@ -1,0 +1,102 @@
+.pink{
+    background-color:#FEEAE9; 
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.p-name{
+    color: #ff76b4;
+}
+.drip{
+    color: rgb(247, 138, 138);
+}
+.price{
+    color: #ff0084;
+}
+.button{
+    margin-top: 40px;
+    color: #fff;
+    padding: 15px 30px;
+    background-image: linear-gradient(45deg,rgb(245, 59, 59),rgb(255, 77, 193));
+    border-style: none;
+    border-radius:10px ;
+    cursor: pointer;
+    margin-left: 400px;
+    box-shadow: rgb(61, 61, 61) 10px 10px 50px;
+
+}
+button:hover{
+        background-image: linear-gradient(45deg,rgb(237, 119, 255),rgb(82, 153, 246));
+    }
+.container{
+    margin-bottom: 100px;
+}
+.categories{
+    margin-top: 100px;
+}
+.cat-1,.cat-2,.cat-3{
+    border-radius: 15px;
+}
+
+.cat-2:hover{
+    background-image: linear-gradient(-45deg,rgb(156, 94, 255),rgb(70, 250, 178));
+}
+.cat-1:hover{
+    background-image: linear-gradient(-45deg,rgb(156, 94, 255),rgb(70, 250, 178));
+}
+.cat-3:hover{
+    background-image: linear-gradient(-45deg,rgb(156, 94, 255),rgb(70, 250, 178));
+}
+.cat-1{
+    background-image: linear-gradient(45deg,rgb(255, 245, 140),rgb(70, 250, 220));
+    padding:20px 30px;
+}
+.cat-1 img{
+    width: 100px;
+}
+.cat-2{
+    background-image: linear-gradient(45deg,rgb(255, 115, 201),rgb(250, 70, 70));
+    padding:20px 30px;
+}
+.cat-2 img{
+    width: 100px;
+}
+.cat-3{
+    background-image: linear-gradient(45deg,rgb(217, 255, 112),rgb(250, 70, 70));
+    padding:20px 30px;
+}
+.cat-3 img{
+    width: 100px;
+}
+.buy-button{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    background-image: -moz-linear-gradient(45deg,rgb(0, 191, 255),rgb(235, 66, 176));
+}
+#card{
+    box-shadow: rgb(162, 162, 162) 10px 40px 70px;
+    border-radius: 15px;
+}
+#card:hover{
+    background-color: #f9efefb1;
+}
+.card{
+    box-shadow: rgb(162, 162, 162) 10px 40px 70px;
+    border-radius: 15px;    
+}
+#Subscribe{
+    background-color:#FEEAE9; 
+    border-radius: 10px;
+    height: 400px;
+}
+.btn{
+    border: none;
+}
+.footer{
+    text-align: center;
+}
+a{
+ text-decoration: none;
+}
